@@ -1,11 +1,11 @@
-# AI Supply Chain Orchestrator (ADK + A2A + MCP)
+Detailed README.md
+📦 AI Supply Chain Orchestrator
+Powered by ADK + A2A + MCP
+This project is a high-level implementation of an autonomous supply chain management system using Google's Agent Development Kit (ADK). It represents a paradigm shift from simple chatbots to Micro-Agent Architectures, where specialized AI entities collaborate across distributed environments to solve complex business logic.
 
-This project is a high-level implementation of an autonomous supply chain management system using Google's **Agent Development Kit (ADK)**. It represents a paradigm shift from simple chatbots to **Micro-Agent Architectures**, where specialized AI entities collaborate across distributed environments to solve complex business logic.
 
----
-
-## 🏗️ Detailed Project Structure
-
+🏗️ Detailed Project Structure
+The project is modularly designed to simulate a real-world enterprise environment where different departments (Inventory, Finance, Logistics) operate as independent services.
 The project is modularly designed to simulate a real-world enterprise environment where different departments (Inventory, Finance, Logistics) operate as independent services.
 
 ```text
