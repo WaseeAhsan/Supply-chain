@@ -12,4 +12,4 @@ The project consists of an **Orchestrator** and three sub-agents:
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/WaseeAhsan/Supply-chain.git>
