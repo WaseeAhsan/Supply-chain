@@ -1,0 +1,10 @@
+tools:
+  - name: get_inventory_levels
+    description: "Check stock levels for a specific item"
+    parameters:
+      item_name: string
+  - name: calculate_order_cost
+    description: "Calculate total cost for restocking items"
+    parameters:
+      item_name: string
+      quantity: integer
